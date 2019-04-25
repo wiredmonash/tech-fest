@@ -1,3 +1,9 @@
+/* Custom Classes */
+.event {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #aaa;
+  padding: 10px;
+}
 /* Base */
 body {
   line-height: 1.7;

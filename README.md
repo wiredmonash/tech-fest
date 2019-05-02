@@ -14,4 +14,4 @@ For TechFest's Code of Conduct visit:
 
 # LICENSE
 
-This website is licensed under `MIT`, for more information visit [LICENESE](./LICENSE)
+This website is licensed under `MIT`, for more information visit [LICENSE](./LICENSE)

@@ -848,14 +848,10 @@ h5,
 .container-fluid {
   max-width: 1400px;
 }
-
-.site-hero {
-  margin-bottom: 10rem;
-}
 .site-hero,
 .site-hero .row {
-  min-height: 700px;
-  height: calc(100vh - 95px);
+  min-height: 300px;
+  height: calc(75vh - 95px);
 }
 .site-hero.inner,
 .site-hero.inner .row {
